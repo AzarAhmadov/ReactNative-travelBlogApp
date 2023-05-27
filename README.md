@@ -1,5 +1,5 @@
 # ReactNative-travelBlogApp
-Travel blog app
+Project images
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 33](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/f1cdc0c3-e420-48c2-92db-479a12425268)
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 37](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/02fbdd85-c663-42b2-ad10-9f94976d110d)
