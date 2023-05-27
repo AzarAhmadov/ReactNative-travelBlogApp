@@ -1,7 +1,8 @@
 # ReactNative-travelBlogApp
 Travel blog app
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 33](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/65d52372-9699-4c54-a5f7-5263a92a30f4){height="300px" width="auto"}
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 37](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/63f97e08-b258-45c6-97e4-4621f5eca2c3)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 40](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/6ffc2c70-279b-4cf4-b660-57de3d8a95a3)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 43](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/6f6c26be-cb1d-40da-8f07-f9406315704c)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 45](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/2e5c4a72-25be-4cec-816d-b2bd21c36e82)
+
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 33](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/f1cdc0c3-e420-48c2-92db-479a12425268)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 37](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/02fbdd85-c663-42b2-ad10-9f94976d110d)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 40](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/ab8a28ab-ad37-4de6-8fb0-71010a850658)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 43](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/9858b58c-f588-4aab-8c15-68ad23e8fd49)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-28 at 03 13 45](https://github.com/AzarAhmadov/ReactNative-travelBlogApp/assets/82292818/231d1f64-2a09-4304-acd2-1090f6a32d93)
